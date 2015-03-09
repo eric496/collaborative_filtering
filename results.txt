@@ -1,0 +1,2 @@
+I combined knn and weighted mean in my own method. First, I sort the similar users according to their similarity score and then the I pick the top five similar users. Second, the weighted mean of the top five similar users is used as the predicted rating.
+  
